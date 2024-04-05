@@ -1,13 +1,29 @@
 <h1>🙂소심한 크롤링 정보마스터 임찬혁입니다</h1>
 
- • 크롤링은 힘들었는데 성공하니 즐거움up 
+ • 크롤링은 힘들었는데 성공하니까 기분이 습니다 
 
- • 코딩을 배우다보면 나도 코딩 마스터 
+ • 꾸준히 공부해서 잘하고싶어요
 
- • 꾸준함은 yes  게으름은 no 
+ • 책을즐겨 읽습니다
 
- • 배움은 언제나 happy  
+ • Al를통해 많은프로그램을 공부하고싶습니다
 
-<h1>Skill.</h1>
 
-• python 
+ 
+
+🎉<h1>Skill.</h1>
+
+<h1>Bront-End</h1> 
+• HTML/CSS
+• TyepeScript
+• Next.js
+
+<h1>Front</h1>
+• HTML/CSS
+• TyepeScript
+• Next.js
+
+<h1>DevOps</h1>
+• HTML/CSS
+• TyepeScript
+• Next.js
