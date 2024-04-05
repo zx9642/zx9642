@@ -15,15 +15,22 @@
 
 <h1>Bront-End</h1> 
 • HTML/CSS
+<br>
 • TyepeScript
+<br>
 • Next.js
+<br>
 
 <h1>Front</h1>
 • HTML/CSS
+<br>
 • TyepeScript
+<br>
 • Next.js
 
 <h1>DevOps</h1>
 • HTML/CSS
+<br>
 • TyepeScript
+<br>
 • Next.js
