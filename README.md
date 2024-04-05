@@ -34,3 +34,13 @@
 • TyepeScript
 <br>
 • Next.js
+
+<h1>📎 RE:코더</h1>
+프로젝트 기간 03.20 ~04.04
+<br>
+• 총5섯명
+<br>
+• 내역활: 크롤링(Crowling)
+
+
+
