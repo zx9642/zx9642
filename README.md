@@ -8,3 +8,6 @@
 
  • 배움은 언제나 happy  
 
+<h1>Skill.</h1>
+
+• python 
