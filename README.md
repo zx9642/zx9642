@@ -10,8 +10,7 @@
 
 
  
-
-🎉<h1>Skill.</h1>
+<h1>🎉Skill.</h1>
 
 <h1>Bront-End</h1> 
 • HTML/CSS
