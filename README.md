@@ -11,7 +11,7 @@
 
 
  
-<h1>🎉Skill.</h1>
+<h2>🎉Skill.</h2>
 
 <h1>Bront-End</h1> 
 • HTML/CSS
