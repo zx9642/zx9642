@@ -11,9 +11,9 @@
 
 
  
-<h2>🎉Skill.</h2>
+<h1>🎉Skill.</h1>
 
-<h1>Bront-End</h1> 
+<h3>Bront-End</h3> 
 • HTML/CSS
 <br>
 • TyepeScript
@@ -21,14 +21,14 @@
 • Next.js
 <br>
 
-<h1>Front</h1>
+<h3>Front</h3>
 • HTML/CSS
 <br>
 • TyepeScript
 <br>
 • Next.js
 
-<h1>DevOps</h1>
+<h3>DevOps</h3>
 • HTML/CSS
 <br>
 • TyepeScript
